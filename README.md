@@ -8,7 +8,7 @@ At any given time I've got far too many side projects going on. You can read abo
 
 #### My current employment
 
-I am a Senior Software Engineer at a great company called [Mosaic](https://mosaic.tech). There are lots of interesting problems to be solved and I'm loving it. Previously I was a Senior Software Engineer at [GoReact](https://get.goreact.com) and before that a Software Engineer at [Domo](https://domo.com).
+I am a Senior Software Engineer at [HiBob](https://www.hibob.com/), working on what was previously known as Mosaic, which was acquired by HiBob in 2025. There are lots of interesting problems to be solved and I'm loving it. Previously I was a Senior Software Engineer at [GoReact](https://get.goreact.com) and before that a Software Engineer at [Domo](https://domo.com).
 
 #### More info about me
 
